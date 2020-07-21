@@ -1,0 +1,21 @@
+{
+    "name": "mini car v2",
+    "description": "",
+    "dependencies": {
+        "core": "*",
+        "bluetooth": "*",
+        "blockyTalkyBLE": "github:laboratoryforplayfulcomputation/pxt-blockytalkyble-uart#v0.0.8"
+    },
+    "files": [
+        "main.blocks",
+        "main.ts",
+        "README.md"
+    ],
+    "testFiles": [
+        "test.ts"
+    ],
+    "supportedTargets": [
+        "microbit"
+    ],
+    "preferredEditor": "blocksprj"
+}
